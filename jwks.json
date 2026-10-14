@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS256",
+      "kid": "mock-idp-key-1",
+      "n": "nVEvi_NcKsXws-gwhIdeVI-RazqHXC9SM6RkVhuf3bAkoGG7CnphIAUPW0G2K3NHbPb-NDYAt4zbxivKemZE8N9xdsMNkENpsG_U0pdJhobSx4wu0jaybLVfye5nDOWywuhs-O6s-9j3RAmNamtLb0pQFGxR5c0AL8WFdeE5f_CXqyKtTnwjZSXvtcJBuHgWQBn2soijM39sBfNy2iF1XppBtP7ii9W49wIR6eoyXTlMGYU1RkPnzobTA-VSFWfQK25SnEcsWUJdbroZzj8_oYHDqRljx1BXA1WRfTzH6zivNMGLQuTxhCv6y00wJWNbZ6qwUnrqPzXMtsMSQx1n2w",
+      "e": "AQAB"
+    }
+  ]
+}
